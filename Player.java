@@ -1,5 +1,7 @@
 package com.monocept.model;
 
+//Player and PlayerTest example for Refactoring using constructor chaining
+
 public class Player {
 
 	private int id;
