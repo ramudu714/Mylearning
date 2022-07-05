@@ -1,8 +1,7 @@
 
 public class Singleton {
 
-
-		
+                 // creating this example for singleton design pattern.
 		
 		private static Singleton obj;
 		 
